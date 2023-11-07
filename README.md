@@ -8,9 +8,8 @@ I've been learning code for a little bit now, I started coding about 2 months ag
 
 * 🌍  I'm based in Philadelphia #FlyEaglesFly
 * ✉️  You can contact me at [discord - 8percent.]
-* 🚀  I'm currently working on [Pixel TD](http://github.com/ericafk0001/pixel-td)
-* 🧠  I'm learning Javascript, HTML, CSS, Pixel art, Animations
-* 🤝  I'm open to collaborating on Pixel TD and Pixel Art Assets
+* 🚀  I'm currently working on expanding my coding knowledge. No big projects :( (yet)
+* 🧠  I'm learning Javascript, HTML, CSS, Graphic Designing
 * ⚡  I like marvel movies! (Mostly ones before endgame)
 
 ### Skills
