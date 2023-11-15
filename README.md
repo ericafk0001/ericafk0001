@@ -4,7 +4,7 @@ Hi 👋 My name is 8percent
 Frontend Web Developer and Game Developer
 -----------------------------------------
 
-I've been learning code for a little bit now, I started coding about 2 months ago and I'm still learning. If you have any advice or suggestions please let me know!
+I've been learning code for a bit while now, mostly Frontend stuff with HTML and CSS. I'm getting into more Javascript and also learning game development with Kaboom.js
 
 * 🌍  I'm based in Philadelphia #FlyEaglesFly
 * ✉️  You can contact me at [discord - 8percent.]
