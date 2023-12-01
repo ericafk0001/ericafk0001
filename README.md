@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eric Lin</h1>
-<h3 align="center">A passionate frontend developer from America</h3>
+<h3 align="center">A Frontend developer from America</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericafk0001&label=Profile%20views&color=0e75b6&style=flat" alt="ericafk0001" /> </p>
 
 - 🔭 I’m currently working on [Hoppybara](https://github.com/ericafk0001/Hoppybara-dev)
 
-- 🌱 I’m currently learning **Javascript, HTML, CSS, Kaboom.js, Pixel art**
+- 🌱 I’m currently learning **Javascript, HTML, CSS, Phaser.js, Python, Pixel art**
 
 - 👯 I’m looking to collaborate on [Hoppybara](https://github.com/ericafk0001/Hoppybara-dev)
 
